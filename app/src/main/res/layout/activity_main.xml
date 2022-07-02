@@ -5,14 +5,14 @@
     android:id="@+id/cLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E6E8B2"
+    android:background="#867FEFFB"
     tools:context=".MainActivity">
 
     <ImageView
         android:id="@+id/gray"
         android:layout_width="186dp"
         android:layout_height="482dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="16dp"
         android:background="#00D5C5C5"
         android:src="@drawable/gray"
         app:layout_constraintEnd_toEndOf="parent"
